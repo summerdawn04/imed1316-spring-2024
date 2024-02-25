@@ -1,0 +1,20 @@
+/*colors*/
+/* 
+60% of #E8D8C3 - Dominant
+30% of #496822 - Secondary
+10% of #FF0058 - Accent
+*/
+
+:root {
+
+    /* var (--dominantColor) !important; */
+    --dominantColor: #E8D8C3;
+
+    /* var (--secondaryColor) !important; */
+    --secondaryColor: #496822;
+
+    /* var (--accentColor) !important; */
+    --accentColor: #FF0058;
+
+
+}
