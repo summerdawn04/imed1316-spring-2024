@@ -1,5 +1,5 @@
 .custom-color {
 
-    background-color: #E8D8C3;
+    background-color: var (--dominantColor) !important;
     height: 200px;
 }
