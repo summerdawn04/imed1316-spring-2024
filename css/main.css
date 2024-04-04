@@ -21,10 +21,10 @@ h2 {
     background-color: #ffffff;
 }
 
-.top-logo-small {
+#top-logo-small {
     font-size: 29px;
     font-family: "DM Serif Display", serif;
-    color: var (--dominantColor) !important;
+    color: var (--secondaryColor) !important;
 }
 
 .material-symbols-outlined,
