@@ -30,7 +30,7 @@ h2 {
 .material-symbols-outlined,
 .material-symbols-outlined a {
     font-size: 60px;
-    color: var (--dominantColor) !important;
+    color: var(--dominantColor) !important;
     position: relative;
     top: 0px;
     text-decoration: none;
@@ -47,4 +47,17 @@ h2 {
 .nav-link:hover {
     text-decoration: underline;
     text-decoration-thickness: 3px;
+}
+
+.footer-row {
+    background-color: var(--dominantColor) !important;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.footer-row a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
 }
