@@ -37,7 +37,7 @@ h2 {
 }
 
 .navbar {
-    background-color: var (--secondaryColor) !important;
+    background-color: var(--secondaryColor) !important;
 }
 
 .nav-link {
