@@ -27,7 +27,7 @@
     box-shadow: 10px 10px 20px 10px rgba(0, 0, 0, 0.35);
     /*vertical, horizontal, blue, spread, color+opacity*/
     z-index: 1;
-    display: inline-block;
+    display: block;
     /*none, block, inline-block*/
 }
 
@@ -55,6 +55,6 @@
     box-shadow: 10px 10px 20px 10px rgba(0, 0, 0, 0.35);
     /*vertical, horizontal, blue, spread, color+opacity*/
     z-index: 0;
-    display: inline-block;
+    display: block;
     /*none, block, inline-block*/
 }
