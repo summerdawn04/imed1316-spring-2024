@@ -16,4 +16,6 @@
     /* var (--accentColor) !important; */
     --accentColor: #FF0058;
 
+    --boxShadow: 10px 10px 20px 10px rgba(0, 0, 0, 0.35);
+    /* var(--boxShadow) !important; */
 }
